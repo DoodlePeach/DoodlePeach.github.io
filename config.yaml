@@ -26,7 +26,7 @@ params:
   # GitHub repo URL of your site
   gitRepo: https://github.com/DoodlePeach/DoodlePeach.github.io
   gitBranch: main
-  
+
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
 
@@ -38,4 +38,4 @@ params:
   newsletter:
     enable: false
 
-  background: "images/background.jpg"
+  background: "images/site/background.jpg"
