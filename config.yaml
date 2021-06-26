@@ -24,7 +24,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: http://saadmehmood.me
+  gitRepo: https://github.com/DoodlePeach/DoodlePeach.github.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
@@ -36,3 +36,5 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
+
+  background: "images/background.jpg"
