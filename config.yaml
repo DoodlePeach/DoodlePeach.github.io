@@ -24,7 +24,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: http//saadmehmood.me
+  gitRepo: http://saadmehmood.me
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
