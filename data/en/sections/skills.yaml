@@ -12,16 +12,29 @@ section:
 # Give a summary of you each skill in the summary section.
 # TODO: Add these logos.
 skills:
-- name: Kubernetes
-  # logo: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Flutter
+  logo: "/images/sections/skills/flutter.png"
+  summary: "Capabale of designing, developing, and managing mobile applications developed in Flutter. Particular experience in social media and fitness applications."
+  url: "https://flutter.dev/"
 
-- name: Go Development
-  # logo: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: Android (native)
+  logo: "/images/sections/skills/android.png"
+  summary: "Experience in designing and devloping native Android applications. Particular experience in Quote books, text-to-speech software and optimization techniques."
+  url: "https://www.android.com/"
 
-- name: Cloud Computing
-  # logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Firebase
+  logo: "/images/sections/skills/firebase.png"
+  summary: "Capable of integrating applications with Firebase. Experience in authentication, database, and advertisment in particular."
+  url: "https://firebase.google.com/"
+
+- name: Flask and Quart
+  logo: "/images/sections/skills/flask.png"
+  summary: "Capabale of developing servers in Flask (and Quart)."
+
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Have a great grip on Python language. Can develop servers, do scraping and use various popular scientific computing libraries such as SciPy, Pandas and NumPy."
+
+- name: Angular
+  logo: "/images/sections/skills/angular.png"
+  summary: "Am able to work in Angular for developing web application having developed an E-Commerce website in the past."
