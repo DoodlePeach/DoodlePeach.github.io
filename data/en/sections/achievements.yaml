@@ -2,7 +2,7 @@
 section:
   name: Achievements
   id: achievements
-  enable: true
+  enable: false
   weight: 6
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -10,9 +10,9 @@ section:
 
 # Your achievements achievements
 achievements:
-# - title: Best Presenter
-#   image: /images/sections/achievements/presenter.jpg
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Speed Programming Competetion at AirNexus, 2019 
+  image: /images/sections/achievements/air_nexus_19.jpg
+  summary: Got to the final bracket of the competetion.
 # - title: Champion
 #   image: /images/sections/achievements/sport.jpg
 #   summary: Champion in cycling inter-city cycling championship 2020.

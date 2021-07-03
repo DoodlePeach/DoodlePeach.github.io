@@ -10,7 +10,6 @@ section:
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
-# TODO: Add these logos.
 skills:
 - name: Flutter
   logo: "/images/sections/skills/flutter.png"
@@ -37,4 +36,4 @@ skills:
 
 - name: Angular
   logo: "/images/sections/skills/angular.png"
-  summary: "Am able to work in Angular for developing web application having developed an E-Commerce website in the past."
+  summary: "Am able to work in Angular for developing web application and have developed an E-Commerce website in the past."
